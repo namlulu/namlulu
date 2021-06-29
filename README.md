@@ -10,7 +10,7 @@
 
 
 
-- 🔭 At that movement I am preparing web developer.
+- 🔭 At that movement, I am preparing web developer.
 - 🌱 I’m currently learning React JS and Node JS
 - 💬 Ask me about **MongoDB** **Express** **React JS** **Node JS**
 - 📫 How to reach me: tmddnr3163@gmail.com
@@ -25,6 +25,5 @@
 </p>
 
 ----
-Credit: [aliashfak178](https://github.com/aliashfak178)
 
-Last Edited on: 26/01/2021
+Last Edited on: 29/06/2022
