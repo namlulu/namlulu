@@ -1,72 +1,37 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoylish&count_bg=%23C558DD&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<p align="center">
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<p>
-  <b>I am a junior developer🐣 who wants to be able to play a part in any team !</b> </br>
-  I have been studying Computer Science and Development for about 2 years. I want to grow more.
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+  
 </p>
 
-<p>
-  <img align="left" width="490" height="270" src="https://github-readme-stats.vercel.app/api?username=Joylish&show_icons=true&theme=buefy&hide_border=false&line_height=20&show_owner=true"/>
-  <p align="right">
-  <h3>Things I code with</h3>
-  <p>
-    <p>
-      <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
-      <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img alt="Python" src="https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white" />
-      <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-    </p>
-    <p>
-      <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-      <img alt="Mobx" src="https://img.shields.io/badge/-Mobx-f0521b?style=flat-square&logo=mobx&logoColor=white" />
-      <img alt="MobxStateTree" src="https://img.shields.io/badge/-MobxStateTree-ffb347?style=flat-square&logo=mobxStateTree&logoColor=white" />
-      <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-      <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-      <img alt="MaterialUI" src="https://img.shields.io/badge/-MaterialUI-0081CB?style=flat-square&logo=MaterialUI&logoColor=white" />
-      <img alt="Html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
-      <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-    </p>
-    <p>
-      <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-      <img alt="Express" src="https://img.shields.io/badge/-Express-232F3E?style=flat-square&logo=Express&logoColor=white" />
-      <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
-      <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-      <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-      <img alt="MySQL"  src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
-      <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-      <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-      <img alt="Amazonaws" src="https://img.shields.io/badge/-Amazonaws-232F3E?style=flat-square&logo=Amazonaws&logoColor=white" />
-    </p>
-    <p>
-      <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052cc?style=flat-square&logo=git&logoColor=white" />
-      <img alt="Trello" src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"/>
-    </p>
-  </p>
-  </p>
- </p>
- 
-<details open>
-<summary>2021 History</summary>
-🌼<a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp"> Samsung SW Academy For Youth 5th in Seoul </a> <br/>
-</details>
-<details markdown="1">
-<summary>2020 History</summary>
-<p>
-🏆<a href="https://www.youtube.com/watch?v=nR2TqMuPBzE&feature=youtu.be"> PaaS-TA Service Development - NHN Special award by LiveMD (2020.12.11)</a> <br/> 
-🏆 NAVER CLOUD PLATFORM Korea-Health-Datathon Sinusitis - 16th by Amolecular (2020.09.25) <br/>
-🏃‍♀️ Completed Education of Microservice Architect for Cloud Service (2020.07.06 - 12.04) <br/>
-🕺 <a href="http://bigjob.dbguide.net/"> Completed Education of KData Data Youth Campus (2020.07.06 - 09.11) </a><br/>
-🏃‍♂️ Completed Education of KISA Insurtech data analysis course (2020.06.22 - 06.26) <br/>
-📜 Certificated SQL developer (2020.05.31) <br/>
-</p>
-</details>
+# Hi guys 👋  I'm Ashfaque Ali
 
-<h3>💌 Contact</h3>
-<p>
-<a href="mailto:yeonzzu2@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a> &nbsp;
-<a href="https://instagram.com/i_am_play__"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a> &nbsp;
-<a href="http://kko.to/hHl5JnAY0"><img src="https://img.shields.io/badge/-music-00b423?style=for-the-badge&logo=apple-music&logoColor=white"/></a> &nbsp;
+
+
+
+
+- 🔭 At that movement I am doing BCA (Bachelors of Computer Application)
+- 🌱 I’m currently learning React JS
+- 👯 open source contributor
+- 💬 Ask me about **MongoDB** **Express** **React JS** **Node JS**
+- 📫 How to reach me: aliashfak178@gmail.com
+- 😄 Pronouns: Pronouns: I, you, he, it, they, this
+- ⚡  Fun fact: I spend almost 5-6 hours Learning everyday
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/> </a>      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> </a>      <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" alt="mongodb" width="40" height="40"/> </a>        <a href="https://nodejs.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>         <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>        <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>                  <a href="https://redux.js.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>             <a href="https://sass-lang.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>              <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+  
+<p align="left"> 
+  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://avatars1.githubusercontent.com/u/16848261?s=280&v=4" alt="scikit_learn" width="40" height="40"/> </a>  
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
+  <a href="https://www.php.net" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  
 </p>
+
+----
+Credit: [aliashfak178](https://github.com/aliashfak178)
+
+Last Edited on: 26/01/2021
