@@ -19,8 +19,8 @@
 
 # My Portfolio
 
-- https://onetwo-coding-club.herokuapp.com/ (운동 영상 서비스 (Node.js / MongoDB / Heroku / AWS S3)
-- https://namlulu.github.io/Portfolio/ => 포트폴리오 정리 
+- https://onetwo-coding-club.herokuapp.com/ (운동 영상 서비스 Node.js / MongoDB / Heroku / AWS S3)
+- https://namlulu.github.io/Portfolio/ (포트폴리오 정리 Vanilla js)
 - 기술 블로그 (개발 중, MERN Stack)
 
 
