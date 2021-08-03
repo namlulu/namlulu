@@ -12,8 +12,7 @@
 
 - 🔭 At that movement, I am full-stack web developer.
 - 🌱 I’m currently learning Vue and Node JS based on TypeScript.
-- 💬 Ask me about **
-** **Vue** **Node JS** **MongoDB** **MySQL**
+- 💬 Ask me about **React** **Vue** **Node JS** **MongoDB** **MySQL**
 - 📫 How to reach me: tmddnr3163@gmail.com
 
 
