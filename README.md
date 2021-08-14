@@ -21,7 +21,8 @@
 
 - https://onetwo-coding-club.herokuapp.com/ (복싱 영상 서비스 Node.js / MongoDB / Heroku / AWS S3)
 - https://namlulu.github.io/Portfolio/ (포트폴리오 정리 JS)
-- 기술 블로그 (개발 중, MERN Stack)
+- 준비 중 (기술 블로그)
+- 준비 중 (주식 플랫폼)
 
 
 <h3 align="left">Languages and Tools:</h3>
