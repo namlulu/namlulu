@@ -20,6 +20,7 @@
 # My Portfolio
 
 - https://onetwo-coding-club.herokuapp.com/ (복싱 영상 서비스 Node.js / MongoDB / Heroku / AWS S3)
+- https://blissful-goodall-ed13ae.netlify.app/ (커플 채팅 서비스)
 - https://namlulu.github.io/Portfolio/ (포트폴리오 정리 JS)
 
 
