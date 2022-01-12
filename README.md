@@ -11,7 +11,7 @@
 
 
 - 🔭 At that movement, I am full-stack web developer.
-- 🌱 I’m currently learning Vue and Node JS based on TypeScript.
+- 🌱 I’m currently Working at BridgeCode.
 - 💬 Ask me about **React** **Vue** **Node JS** **MongoDB** **MySQL**
 - 📫 How to reach me: tmddnr3163@gmail.com
 
@@ -22,6 +22,7 @@
 - https://onetwo-coding-club.herokuapp.com/ (복싱 영상 서비스 Heroku / AWS S3)
 - https://blissful-goodall-ed13ae.netlify.app/ (커플 채팅 서비스 Platform sh)
 - https://namlulu.github.io/Portfolio/ (포트폴리오 정리 JS)
+- https://velog.io/@lsa3163 (블로그)
 
 
 <h3 align="left">Languages and Tools:</h3>
