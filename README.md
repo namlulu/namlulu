@@ -19,10 +19,10 @@
 
 # My Portfolio
 
-- https://onetwo-coding-club.herokuapp.com/ (복싱 영상 서비스 Heroku / AWS S3)
-- https://blissful-goodall-ed13ae.netlify.app/ (커플 채팅 서비스 Platform sh)
-- https://namlulu.github.io/Portfolio/ (포트폴리오 정리 JS)
-- https://velog.io/@lsa3163 (블로그)
+- https://onetwo-coding-club.herokuapp.com/ (복싱 영상 서비스 / Heroku / AWS S3)
+- https://namroom.netlify.app/ (커플 채팅 서비스 / Netlify / Heroku)
+- https://namlulu.github.io/Portfolio/ (포트폴리오 정리 / Gh-pages)
+- https://velog.io/@lsa3163 (블로그 / velog)
 
 
 <h3 align="left">Languages and Tools:</h3>
