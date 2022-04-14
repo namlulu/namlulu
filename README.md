@@ -12,7 +12,7 @@
 
 - 🔭 At that movement, I am developer.
 - 🌱 I’m currently Working at GS RETAIL.
-- 💬 Ask me about **WEB** **Mobile APP** **DESKTOP APP** **Node JS** **JAVA**
+- 💬 Ask me about **WEB** / **Mobile APP** / **DESKTOP APP** / **Node JS** / **JAVA**
 - 📫 How to reach me: tmddnr3163@gmail.com
 
 
