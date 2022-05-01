@@ -19,7 +19,7 @@
 
 # My Portfolio
 
-- https://onetwo-coding-club.herokuapp.com/ (복싱 영상 서비)
+- https://onetwo-coding-club.herokuapp.com/ (복싱 영상 서비스)
 - https://namroom.netlify.app/ (채팅 서비스)
 - https://namlulu.github.io/Portfolio/ (포트폴리오)
 - https://dsbvzxvjiboirewbg.tistory.com/ (블로그)
