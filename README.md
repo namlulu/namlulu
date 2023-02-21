@@ -19,7 +19,7 @@
 
 # My Project
 
-- https://onetwo-coding-club.herokuapp.com/ (복싱 영상 서비스 / 서비스 운영)
+- ~~https://onetwo-coding-club.herokuapp.com/ (복싱 영상 서비스 / 서비스 종료)~~
 - ~~https://namroom.netlify.app/ (채팅 서비스 / 서비스 종료)~~
 - https://namlulu.github.io/Portfolio/ (포트폴리오)
 - https://dsbvzxvjiboirewbg.tistory.com/ (블로그)
