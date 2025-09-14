@@ -10,9 +10,11 @@
 
 
 
-- 🔭 At that movement, I am developer.
+- 🔭 At that movement, I am SRE & DevOps engineer.
 - 🌱 I’m currently Working at GS RETAIL.
-- 💬 Ask me about **WEB** / **Mobile APP** / **DESKTOP APP** / **Node JS** / **JAVA**
+- 💬 Ask me about cloud, CI/CD, or automation.
+- 💬 Feel free to ask me anything about cloud, CI/CD, or automation.
+- 💬 I can answer questions on cloud, CI/CD, and automation—just as
 - 📫 How to reach me: tmddnr3163@gmail.com
 
 
